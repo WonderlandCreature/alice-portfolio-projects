@@ -9,7 +9,7 @@ alice-portfolio-projects/
 │   ├── coupon_ml_strategy/
 │   └── gtm_sales_analytics/
 ├── 02_growth_pricing_optimization/
-│   ├── homman_growth_system/
+│   ├── growth_strategy_system/
 │   └── pricing_model/
 ├── 03_customer_segmentation_decision/
 │   └── client_segmentation/
@@ -32,7 +32,7 @@ Projects focused on go-to-market targeting, sales intelligence, and execution-or
 ### 02 Growth Pricing Optimization
 Projects focused on pricing logic, growth systems, and business optimization.
 
-- `homman_growth_system/`: growth workflow and allocation system space
+- `growth_strategy_system/`: growth workflow and allocation system space
 - `pricing_model/`: pricing strategy and revenue logic project space
 
 ### 03 Customer Segmentation Decision

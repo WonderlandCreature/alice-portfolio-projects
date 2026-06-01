@@ -1,4 +1,4 @@
-# Homman Growth System
+# Growth Strategy System
 
 ## Problem
 What growth or business allocation problem does this project address?

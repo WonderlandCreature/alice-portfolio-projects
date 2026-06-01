@@ -3,5 +3,5 @@
 Decision systems focused on pricing logic, growth strategy, and operational optimization.
 
 ## Projects
-- `homman_growth_system/`
+- `growth_strategy_system/`
 - `pricing_model/`
