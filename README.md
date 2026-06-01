@@ -9,37 +9,51 @@ I build AI-native business systems across GTM strategy, workflow automation, ope
 
 ## Repository Map
 ```text
-WonderlandCreature/
-├── alice-portfolio-projects/
-└── WonderlandCreature/
+alice-portfolio-projects/
+├── 01_gtm_strategy_analytics/
+│   ├── coupon_ml_strategy/
+│   └── gtm_sales_analytics/
+├── 02_growth_pricing_optimization/
+│   ├── growth_strategy_system/
+│   └── pricing_model/
+├── 03_customer_segmentation_decision/
+│   └── client_segmentation/
+└── 04_market_strategy_research/
+    ├── real_estate_analysis/
+    └── healthcare_policy/
 ```
 
 ## Portfolio Structure
-These repositories are organized to show different layers of my work: structured business systems, decision-support workflows, research-driven strategy projects, and early-stage product exploration.
+These sections are organized to show different layers of my work: GTM decision systems, growth and pricing workflows, customer segmentation logic, and research-driven strategy projects.
 
-### Alice Portfolio Projects
-Projects organized across GTM strategy, growth and pricing, customer decision systems, and market strategy research.
+### 01 GTM Strategy Analytics
+Projects focused on go-to-market targeting, sales intelligence, campaign optimization, and execution-oriented decision support.
 
-- `01_gtm_strategy_analytics/coupon_ml_strategy/`: coupon targeting decision system using behavioral segmentation and response scoring
-- `01_gtm_strategy_analytics/gtm_sales_analytics/`: GTM visibility and sales execution project space
-- `02_growth_pricing_optimization/growth_strategy_system/`: growth workflow and allocation system space
-- `02_growth_pricing_optimization/pricing_model/`: pricing strategy and revenue logic project space
-- `03_customer_segmentation_decision/client_segmentation/`: client segmentation and customer decision workflow space
-- `04_market_strategy_research/real_estate_analysis/`: market and location strategy research space
-- `04_market_strategy_research/healthcare_policy/`: policy and system-level research space
+- `coupon_ml_strategy/`: coupon targeting decision system using behavioral segmentation and response scoring
+- `gtm_sales_analytics/`: GTM visibility and sales execution project space
 
-### WonderlandCreature
-Early-stage concepts, AI-native product directions, and future-facing workflow experiments.
+### 02 Growth Pricing Optimization
+Projects focused on pricing logic, growth systems, resource allocation, and business optimization.
 
-- personal operating system ideas
-- product-thinking AI systems
-- future venture concepts
+- `growth_strategy_system/`: growth workflow and allocation system space
+- `pricing_model/`: pricing strategy and revenue logic project space
+
+### 03 Customer Segmentation Decision
+Projects focused on customer segmentation systems, targeting logic, and behavior-driven decision support.
+
+- `client_segmentation/`: client segmentation and customer decision workflow space
+
+### 04 Market Strategy Research
+Projects focused on market research, strategic analysis, and policy-informed business decision support.
+
+- `real_estate_analysis/`: market and location strategy research space
+- `healthcare_policy/`: policy and system-level research space
 
 ## Featured Project
-- `alice-portfolio-projects/01_gtm_strategy_analytics/coupon_ml_strategy/`
+- `01_gtm_strategy_analytics/coupon_ml_strategy/`
 
 ## Positioning
-This GitHub is designed to present projects as business systems, workflow-driven decision support, and operational intelligence assets rather than coursework collections.
+This repository is designed to present projects as business systems, workflow-driven decision support, and operational intelligence assets rather than coursework collections.
 
 ## Connect
 - LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
