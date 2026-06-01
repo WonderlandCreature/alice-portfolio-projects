@@ -2,6 +2,14 @@
 
 AI-native business systems portfolio organized around GTM strategy, pricing and growth, customer decision systems, and market strategy research.
 
+## About Me
+I build AI-native business systems across GTM strategy, workflow automation, operational intelligence, and enterprise decision support.
+
+## Current Focus
+- GTM Analyst in Silicon Valley
+- Graduate of the Master of Science in Business Analytics
+- Building applied AI and decision-support systems
+
 ## Portfolio Structure
 ```text
 alice-portfolio-projects/
@@ -51,3 +59,7 @@ Projects focused on market research, strategic analysis, and policy-informed bus
 
 ## Notes
 This repository acts as the main portfolio map for structured business-system projects. The separate `wonderlandcreature/` repository is reserved for early-stage concepts, product-thinking AI systems, and future-facing workflow experiments.
+
+## Connect
+- LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
+- Email: dongxiaocun@gmail.com
