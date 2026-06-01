@@ -1,8 +1,5 @@
-# Alice Portfolio Projects
+# Hi, I'm Alice
 
-AI-native business systems portfolio organized around GTM strategy, pricing and growth, customer decision systems, and market strategy research.
-
-## About Me
 I build AI-native business systems across GTM strategy, workflow automation, operational intelligence, and enterprise decision support.
 
 ## Current Focus
@@ -10,55 +7,39 @@ I build AI-native business systems across GTM strategy, workflow automation, ope
 - Graduate of the Master of Science in Business Analytics
 - Building applied AI and decision-support systems
 
-## Portfolio Structure
+## Repository Map
 ```text
-alice-portfolio-projects/
-├── 01_gtm_strategy_analytics/
-│   ├── coupon_ml_strategy/
-│   └── gtm_sales_analytics/
-├── 02_growth_pricing_optimization/
-│   ├── growth_strategy_system/
-│   └── pricing_model/
-├── 03_customer_segmentation_decision/
-│   └── client_segmentation/
-└── 04_market_strategy_research/
-    ├── real_estate_analysis/
-    └── healthcare_policy/
+WonderlandCreature/
+├── alice-portfolio-projects/
+└── WonderlandCreature/
 ```
 
-## Positioning
-This portfolio is designed to present projects as business systems, workflow-driven decision support, and operational intelligence assets rather than coursework or notebook-only analysis.
+## Portfolio Structure
+These repositories are organized to show different layers of my work: structured business systems, decision-support workflows, research-driven strategy projects, and early-stage product exploration.
 
-## Portfolio Map
+### Alice Portfolio Projects
+Projects organized across GTM strategy, growth and pricing, customer decision systems, and market strategy research.
 
-### 01 GTM Strategy Analytics
-Projects focused on go-to-market targeting, sales intelligence, and execution-oriented decision support.
+- `01_gtm_strategy_analytics/coupon_ml_strategy/`: coupon targeting decision system using behavioral segmentation and response scoring
+- `01_gtm_strategy_analytics/gtm_sales_analytics/`: GTM visibility and sales execution project space
+- `02_growth_pricing_optimization/growth_strategy_system/`: growth workflow and allocation system space
+- `02_growth_pricing_optimization/pricing_model/`: pricing strategy and revenue logic project space
+- `03_customer_segmentation_decision/client_segmentation/`: client segmentation and customer decision workflow space
+- `04_market_strategy_research/real_estate_analysis/`: market and location strategy research space
+- `04_market_strategy_research/healthcare_policy/`: policy and system-level research space
 
-- `coupon_ml_strategy/`: coupon targeting decision system using behavioral segmentation and response scoring
-- `gtm_sales_analytics/`: GTM visibility and sales execution project space
+### WonderlandCreature
+Early-stage concepts, AI-native product directions, and future-facing workflow experiments.
 
-### 02 Growth Pricing Optimization
-Projects focused on pricing logic, growth systems, and business optimization.
-
-- `growth_strategy_system/`: growth workflow and allocation system space
-- `pricing_model/`: pricing strategy and revenue logic project space
-
-### 03 Customer Segmentation Decision
-Projects focused on customer segmentation systems, targeting logic, and behavior-driven decision support.
-
-- `client_segmentation/`: client segmentation and decision workflow space
-
-### 04 Market Strategy Research
-Projects focused on market research, strategic analysis, and policy-informed business decision support.
-
-- `real_estate_analysis/`: market and location strategy research space
-- `healthcare_policy/`: policy and system-level research space
+- personal operating system ideas
+- product-thinking AI systems
+- future venture concepts
 
 ## Featured Project
-- `01_gtm_strategy_analytics/coupon_ml_strategy/`
+- `alice-portfolio-projects/01_gtm_strategy_analytics/coupon_ml_strategy/`
 
-## Notes
-This repository acts as the main portfolio map for structured business-system projects. The separate `wonderlandcreature/` repository is reserved for early-stage concepts, product-thinking AI systems, and future-facing workflow experiments.
+## Positioning
+This GitHub is designed to present projects as business systems, workflow-driven decision support, and operational intelligence assets rather than coursework collections.
 
 ## Connect
 - LinkedIn: [linkedin.com/in/alicexdong](https://linkedin.com/in/alicexdong)
