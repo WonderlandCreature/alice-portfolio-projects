@@ -7,12 +7,12 @@ AI-native business systems portfolio organized around GTM strategy, pricing and 
 alice-portfolio-projects/
 ├── 01_gtm_strategy_analytics/
 │   ├── coupon_ml_strategy/
-│   └── box_sales_analytics/
+│   └── gtm_sales_analytics/
 ├── 02_growth_pricing_optimization/
 │   ├── homman_growth_system/
 │   └── pricing_model/
 ├── 03_customer_segmentation_decision/
-│   └── bmo_segmentation/
+│   └── client_segmentation/
 └── 04_market_strategy_research/
     ├── real_estate_analysis/
     └── healthcare_policy/
@@ -27,7 +27,7 @@ This portfolio is designed to present projects as business systems, workflow-dri
 Projects focused on go-to-market targeting, sales intelligence, and execution-oriented decision support.
 
 - `coupon_ml_strategy/`: coupon targeting decision system using behavioral segmentation and response scoring
-- `box_sales_analytics/`: GTM and sales visibility project space
+- `gtm_sales_analytics/`: GTM visibility and sales execution project space
 
 ### 02 Growth Pricing Optimization
 Projects focused on pricing logic, growth systems, and business optimization.
@@ -38,7 +38,7 @@ Projects focused on pricing logic, growth systems, and business optimization.
 ### 03 Customer Segmentation Decision
 Projects focused on customer segmentation systems, targeting logic, and behavior-driven decision support.
 
-- `bmo_segmentation/`: segmentation and customer decision workflow space
+- `client_segmentation/`: client segmentation and decision workflow space
 
 ### 04 Market Strategy Research
 Projects focused on market research, strategic analysis, and policy-informed business decision support.

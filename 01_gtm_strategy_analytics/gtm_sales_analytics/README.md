@@ -1,4 +1,4 @@
-# Box Sales Analytics
+# GTM Sales Analytics
 
 ## Problem
 What GTM visibility or sales execution problem does this project address?
@@ -9,14 +9,14 @@ What decision, workflow, or operational outcome is this project designed to impr
 ## Workflow
 Input -> Processing -> Decision -> Action
 
-## System Design
-Analytics logic, workflow design, dashboarding, and decision-support methods used.
+## Methodology
+Models, systems, architecture, or operational logic used.
 
 ## Key Insights
-Main patterns, execution signals, or revenue observations discovered.
+Main findings or system behaviors.
 
 ## Business Impact
 How this project improves GTM execution, visibility, or sales decision-making.
 
 ## Future Improvements
-Potential next-step extensions or production enhancements.
+Potential next-step extensions.

@@ -4,4 +4,4 @@ Business systems focused on go-to-market targeting, sales intelligence, and exec
 
 ## Projects
 - `coupon_ml_strategy/`
-- `box_sales_analytics/`
+- `gtm_sales_analytics/`
